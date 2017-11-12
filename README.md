@@ -18,7 +18,7 @@ You have to use the specific selectors described below to style the navigation.
 
 ### The `<header>`
 
-Give the `header` element a `height` of `100px` and a `bottom-border` of `1px solid #cccccc`
+Give the `header` element a `height` of `100px` and a `border-bottom` of `1px solid #cccccc`
 
 ### The `<nav>`
 
